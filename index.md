@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 白石麻衣
+tagline: 的时光机
 ---
 {% include JB/setup %}
+
+![](/images/official-25th.jpg)
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
